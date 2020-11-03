@@ -1,0 +1,6 @@
+.DS_Store
+src/.DS_Store
+bin/.DS_Store
+src/*/.project
+src/*/.classpath
+src/.project
